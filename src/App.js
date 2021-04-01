@@ -6,6 +6,7 @@ import Routes from "./Routes";
 import Nav from "react-bootstrap/Nav";
 
 function App() {
+
   return (
     <div className="root">
       <Navbar collapseOnSelect bg="light" expand="md" className="mb-3">

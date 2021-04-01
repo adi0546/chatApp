@@ -13,6 +13,7 @@ export default function Login() {
 
   function handleSubmit(event) {
     event.preventDefault();
+    alert('Form submitted by ' + email)
   }
 
   return (
